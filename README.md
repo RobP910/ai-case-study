@@ -3,11 +3,11 @@
 # Human-like AI Adaptability in Robotics
 This README.md files scope is based on a specific company and their further exploration into AI. Specificly, the Commercial Development and Enhancment of AI to be used in furthering Human-like Adaptabilty in Robots and Robotic Technologies.
 
- [Company Introduction](#overview-and-origin)
- - [Business Activities](#business-activities)
- - [Landscape](#landscape)
- - [Results](#results)
- - [Recommendations](#recommendations)
+   [Company Introduction](#overview-and-origin)
+   [Business Activities](#business-activities)
+   [Landscape](#landscape)
+   [Results](#results)
+   [Recommendations](#recommendations)
 
 ## Overview and Origin
 Company Name and Location:
