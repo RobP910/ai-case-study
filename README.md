@@ -3,7 +3,7 @@
 # Human-like AI Adaptability in Robotics
 This README.md files scope is based on a specific company and their further exploration into AI. Specificly, the Commercial Development and Enhancment of AI to be used in furthering Human-like Adaptabilty in Robots and Robotic Technologies.
 
-[Company Introduction](#company-introduction) - [Business Activities](#business-activities) - [Landscape](#landscape) - [Results](#results) - [Recommendations](#recommendations)
+[Company Introduction](#company-introduction) &nbsp; [Business Activities](#business-activities) &nbsp; [Results](#results) &nbsp; [Recommendations](#recommendations)
 
 ## Company Introduction
 Company Name and Location:
@@ -19,10 +19,11 @@ How is the company funded? How much funding have they received?
 
 ## Business Activities
 
-What specific problem is the company or project trying to solve?
+- What specific problem is the company or project trying to solve?
 ### Palladyne AI plans to significantly reduce the time and effort it takes to program and deploy robots.
-Who is the company's intended customer? Is there any information about the market size of this set of customers?
-### Palladyne AI believes its software has wide application in industries and applications such as
+
+- Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### Palladyne AI believes its software has wide application in industries such as:
 - automotive
 - aviation
 - construction
@@ -31,18 +32,14 @@ Who is the company's intended customer? Is there any information about the marke
 - infrastructure inspection
 - logistics
 - warehousing
-Unmanned Arial Vehicles (UAVs)
-Unmanned Ground Vehicles (UGVs)
-Remotely Operated Vehicles (ROVs)
+
+### And non-traditional applications such as:
+- Unmanned Arial Vehicles (UAVs)
+- Unmanned Ground Vehicles (UGVs)
+- Remotely Operated Vehicles (ROVs)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-## Landscape
-
-* What field is the company in?
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-* What are the other major companies in this field?
 
 ## Results
 
