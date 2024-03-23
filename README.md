@@ -10,7 +10,7 @@ Company Name and Location:
 ### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/) | Salt Lake City, UT
 
 When was the company incorporated?
-### While the newly named 'Palladyne AI' has only recently been introduced to the World, 'SARCOS' has been around in one form or another since 1983.[^2]
+### While the newly named 'Palladyne AI' has only recently been introduced to the World,[^1] 'SARCOS' has been around in one form or another since 1983.[^2]
 
 Who are the founders of the company?
 ### SARCOS was originally founded by the late [Stephen Jacobsen](https://en.wikipedia.org/wiki/Stephen_Jacobsen). Ben Wolfe became CEO sometime between 2015 and 2016[^2] where he has spearheaded the rebranding that involded the name change from 'SARCOS Technology and Robotics Corp.' to 'Palladyne AI Corp.'
@@ -27,7 +27,7 @@ What specific problem is the company or project trying to solve?
 ### Palladyne AI plans to significantly reduce the time and effort it takes to program and deploy robots.
 
 Who is the company's intended customer? Is there any information about the market size of this set of customers?
-### Palladyne AI believes its software has wide application, including in industries such as
+### Palladyne AI believes its software has wide application in industries and applications such as
 - automotive
 - aviation
 - construction
@@ -36,6 +36,9 @@ Who is the company's intended customer? Is there any information about the marke
 - infrastructure inspection
 - logistics
 - warehousing
+Unmanned Arial Vehicles (UAVs)
+Unmanned Ground Vehicles (UGVs)
+Remotely Operated Vehicles (ROVs)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
@@ -61,3 +64,4 @@ Who is the company's intended customer? Is there any information about the marke
 
 [^1] https://investor.palladyneai.com/news-releases/news-release-details/sarcos-robotics-now-palladyne-ai
 [^2] https://en.wikipedia.org/wiki/Sarcos
+[^3] https://investor.palladyneai.com/
