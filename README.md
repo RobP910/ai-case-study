@@ -3,20 +3,19 @@
 # Human-like AI Adaptability in Robotics
 This README.md files scope is based on a specific company and their further exploration into AI. Specificly, the Commercial Development and Enhancment of AI to be used in furthering Human-like Adaptabilty in Robots and Robotic Technologies.
 
-## Table of Contents
-[Company Introduction](#overview-and-origin)
-[Business Activities](#business-activities)
-[Landscape](#landscape)
-[Results](#results)
-[Recommendations](#recommendations)
+ [Company Introduction](#overview-and-origin)
+ - [Business Activities](#business-activities)
+ - [Landscape](#landscape)
+ - [Results](#results)
+ - [Recommendations](#recommendations)
 
 ## Overview and Origin
 Company Name and Location:
-[Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/)
-Salt Lake City, UT
+### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/)
+### Salt Lake City, UT
 
 When was the company incorporated?
-### While Palladyne AI has only recently (March 18th, 2024 [^1]) been introduced to the World, SARCOS has been around since 1983.[^2]
+### While Palladyne AI has only recently (March 18th, 2024)[^1] been introduced to the World, SARCOS has been around since 1983.[^2]
 
 Who are the founders of the company?
 ### SARCOS was originally founded by the late [Stephen Jacobsen](https://en.wikipedia.org/wiki/Stephen_Jacobsen). Sometime between 2015 and 2016, Ben Wolfe became CEO.[^2] Ben has been the CEO during the rebranding that involded the name changed from 'SARCOS Technology and Robotics Corp.' to 'Palladyne AI Corp.'
