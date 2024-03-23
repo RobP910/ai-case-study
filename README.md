@@ -6,16 +6,21 @@ This README.md files scope is based on a specific company and their further expl
 [Company Introduction](#company-introduction) &nbsp; [Business Activities](#business-activities) &nbsp; [Results](#results) &nbsp; [Recommendations](#recommendations)
 
 ## Company Introduction
-Company Name and Location:
-### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/) | Salt Lake City, UT
-When was the company incorporated?
-### While the newly named 'Palladyne AI' has only recently been introduced to the World,[^1] 'SARCOS' has been around in one form or another since 1983.[^2]
-Who are the founders of the company?
-### SARCOS was originally founded by the late [Stephen Jacobsen](https://en.wikipedia.org/wiki/Stephen_Jacobsen). Ben Wolfe became CEO sometime between 2015 and 2016[^2] where he has spearheaded the rebranding that involded the name change from 'SARCOS Technology and Robotics Corp.' to 'Palladyne AI Corp.'
-How did the idea for the company (or project) come about?
-### The name change came about mostly thru neccessity as the former SARCOS company was failing to meet most of its shareholders expectations. The new name reflects the company's newly narrowed focus on commercializing the artificial intelligence and machine learning software that it has been developing since 2020. [^1]
-How is the company funded? How much funding have they received?
-### [Palladyne AI](https://palladyneai.com/) will be trading as NASDAQ:[PDYN](https://www.msn.com/en-us/money/watchlist?tab=Related&id=bzx4pr&ocid=ansMSNMoney11&duration=1Y&src=b_secdans&relatedQuoteId=bzx4pr&relatedSource=MlAl) effective April 8th, 2024.[^1] They currently have just under $40M in cash.[^1]
+
+<span style="color:blue">- Company Name and Location:</span>
+<span style="color:white">### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/) | Salt Lake City, UT</span>
+
+<span style="color:blue">- When was the company incorporated?</span>
+<span style="color:white">### While the newly named 'Palladyne AI' has only recently been introduced to the World,[^1] 'SARCOS' has been around in one form or another since 1983.[^2]</span>
+
+<span style="color:blue">- Who are the founders of the company?</span>
+<span style="color:white">### SARCOS was originally founded by the late [Stephen Jacobsen](https://en.wikipedia.org/wiki/Stephen_Jacobsen). Ben Wolfe became CEO sometime between 2015 and 2016[^2] where he has spearheaded the rebranding that involded the name change from 'SARCOS Technology and Robotics Corp.' to 'Palladyne AI Corp.'</span>
+
+<span style="color:blue">- How did the idea for the company (or project) come about?</span>
+<span style="color:white">### The name change came about mostly thru neccessity as the former SARCOS company was failing to meet most of its shareholders expectations. The new name reflects the company's newly narrowed focus on commercializing the artificial intelligence and machine learning software that it has been developing since 2020. [^1]</span>
+
+<span style="color:blue">- How is the company funded? How much funding have they received?</span>
+<span style="color:white">### [Palladyne AI](https://palladyneai.com/) will be trading as NASDAQ:[PDYN](https://www.msn.com/en-us/money/watchlist?tab=Related&id=bzx4pr&ocid=ansMSNMoney11&duration=1Y&src=b_secdans&relatedQuoteId=bzx4pr&relatedSource=MlAl) effective April 8th, 2024.[^1] They currently have just under $40M in cash.[^1]</span>
 
 ## Business Activities
 
