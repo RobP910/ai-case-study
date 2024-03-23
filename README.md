@@ -3,18 +3,17 @@
 # Human-like AI Adaptability in Robotics
 This README.md files scope is based on a specific company and their further exploration into AI. Specificly, the Commercial Development and Enhancment of AI to be used in furthering Human-like Adaptabilty in Robots and Robotic Technologies.
 
-[Company Introduction](#overview-and-origin) - [Business Activities](#business-activities) -[Landscape](#landscape) - [Results](#results) - [Recommendations](#recommendations)
+[Company Introduction](#company-introduction) - [Business Activities](#business-activities) - [Landscape](#landscape) - [Results](#results) - [Recommendations](#recommendations)
 
-## Overview and Origin
+## Company Introduction
 Company Name and Location:
-### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/)
-### Salt Lake City, UT
+### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/) | Salt Lake City, UT
 
 When was the company incorporated?
-### While Palladyne AI has only recently (March 18th, 2024)[^1] been introduced to the World, SARCOS has been around since 1983.[^2]
+### While the newly named 'Palladyne AI' has only recently been introduced to the World, 'SARCOS' has been around in one form or another since 1983.[^2]
 
 Who are the founders of the company?
-### SARCOS was originally founded by the late [Stephen Jacobsen](https://en.wikipedia.org/wiki/Stephen_Jacobsen). Sometime between 2015 and 2016, Ben Wolfe became CEO.[^2] Ben has been the CEO during the rebranding that involded the name changed from 'SARCOS Technology and Robotics Corp.' to 'Palladyne AI Corp.'
+### SARCOS was originally founded by the late [Stephen Jacobsen](https://en.wikipedia.org/wiki/Stephen_Jacobsen). Ben Wolfe became CEO sometime between 2015 and 2016[^2] where he has spearheaded the rebranding that involded the name change from 'SARCOS Technology and Robotics Corp.' to 'Palladyne AI Corp.'
 
 How did the idea for the company (or project) come about?
 ### The name change came about mostly thru neccessity as the former SARCOS company was failing to meet most of its shareholders expectations. The new name reflects the company's newly narrowed focus on commercializing the artificial intelligence and machine learning software that it has been developing since 2020. [^1]
@@ -25,9 +24,19 @@ How is the company funded? How much funding have they received?
 ## Business Activities
 
 What specific problem is the company or project trying to solve?
-### 
+### Palladyne AI plans to significantly reduce the time and effort it takes to program and deploy robots.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### Palladyne AI believes its software has wide application, including in industries such as
+- automotive
+- aviation
+- construction
+- defense
+- general manufacturing
+- infrastructure inspection
+- logistics
+- warehousing
+
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
