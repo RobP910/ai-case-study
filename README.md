@@ -38,10 +38,10 @@ This README.md files scope is based on a specific company and their further expl
 - logistics
 - warehousing
 
-### And non-traditional applications such as:
-- Unmanned Arial Vehicles (UAVs)
-- Unmanned Ground Vehicles (UGVs)
-- Remotely Operated Vehicles (ROVs)
+>> ### And non-traditional applications such as:
+>>> - Unmanned Arial Vehicles (UAVs)
+>>> - Unmanned Ground Vehicles (UGVs)
+>>> - Remotely Operated Vehicles (ROVs)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
