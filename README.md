@@ -42,21 +42,20 @@ This README.md files scope is based on a specific company and their further expl
 | Unmanned Arial Vehicles (UAVs)     | Unmanned Ground Vehicles (UGVs)    |
 | Remotely Operated Vehicles (ROVs)  |                                    |
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 ## Results
 
-* What has been the business impact of this company so far?
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-* How is your company performing relative to competitors in the same field?
+- What has been the business impact of this company so far?
+> ### I believe it's too soon to tell, but definately one to watch. You could take away from the companies history that they don't have the team to be successful. As a formal employee, I have not been aware of any philisophical changes in upper management that would lead to the success of Palladyne AI.
+
+- How is your company performing relative to competitors in the same field?
+> ### This isn't exactly a direct comparrison, more like comparing apples and oranges, but watching vidoes of the [![SARCOS Guardian (r) XO](https://www.youtube.com/watch?v=PZcHlz_obyw&t=95s)] vs. [![Boston Dynamics Atlas](https://www.youtube.com/shorts/SFKM-Rxiqzg)] 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* Why do you think that offering this product or service would benefit the company?
-* What technologies would this additional product or service utilize?
-* Why are these technologies appropriate for your solution?
+- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+- Why do you think that offering this product or service would benefit the company?
+- What technologies would this additional product or service utilize?
+- Why are these technologies appropriate for your solution?
 
 [^1] https://investor.palladyneai.com/news-releases/news-release-details/sarcos-robotics-now-palladyne-ai
 [^2] https://en.wikipedia.org/wiki/Sarcos
