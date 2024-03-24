@@ -48,7 +48,7 @@ This README.md files scope is based on a specific company and their further expl
 > ### I believe it's too soon to tell, but definately one to watch. You could take away from the companies history that they don't have the team to be successful. As a formal employee, I have not been aware of any philisophical changes in upper management that would lead to the success of Palladyne AI.
 
 - How is your company performing relative to competitors in the same field?
-> ### This isn't exactly a direct comparrison, more like comparing apples and oranges, but watching vidoes of the [![SARCOS Guardian (r) XO](https://www.youtube.com/watch?v=PZcHlz_obyw&t=95s)] vs. [![Boston Dynamics Atlas](https://www.youtube.com/shorts/SFKM-Rxiqzg)] 
+> ### This isn't exactly a direct comparrison, more like comparing apples and oranges, but watching vidoes of the [![SARCOS Guardian (r) XO](https://youtu.be/PZcHlz_obyw?t=87)](https://youtu.be/PZcHlz_obyw) vs. [![Boston Dynamics Atlas]()](https://www.youtube.com/shorts/SFKM-Rxiqzg?feature=share)
 
 ## Recommendations
 
