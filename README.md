@@ -28,7 +28,7 @@ This README.md files scope is based on a specific company and their further expl
 > ### Palladyne AI plans to significantly reduce the time and effort it takes to program and deploy robots.
 
 - Who is the company's intended customer? Is there any information about the market size of this set of customers?
-&nbsp; ### Palladyne AI believes its software has wide application in industries such as:
+### &nbsp; Palladyne AI believes its software has wide application in industries such as:
 |             Industry               |             Industry               |
 |------------------------------------|------------------------------------|
 | automotive                         | aviation                           |
@@ -36,8 +36,8 @@ This README.md files scope is based on a specific company and their further expl
 | general manufacturing              | infrastructure inspection          |
 | logistics                          | warehousing                        |
 
-&nbsp; ### And non-traditional applications such as:
-|         Applications               |         Applications               |
+### &nbsp; And non-traditional applications such as:
+|           Applications             |           Applications             |
 |------------------------------------|------------------------------------|
 | Unmanned Arial Vehicles (UAVs)     | Unmanned Ground Vehicles (UGVs)    |
 | Remotely Operated Vehicles (ROVs)  |                                    |
