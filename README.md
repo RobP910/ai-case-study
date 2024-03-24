@@ -59,5 +59,7 @@ This README.md files scope is based on a specific company and their further expl
 > ### I believe that AI technology has the potential to enhance exoskeletons, creating additional opportunities for individuals who may otherwise be unable to fulfill certain positions due to disabilities. And by helping to reduce the risk of injury to a minimum, AI-powered exoskeletons can enable greater accessibility and inclusivity in various roles and industries.
 
 [^1] https://investor.palladyneai.com/news-releases/news-release-details/sarcos-robotics-now-palladyne-ai
+
 [^2] https://en.wikipedia.org/wiki/Sarcos
+
 [^3] https://investor.palladyneai.com/
