@@ -8,10 +8,10 @@ This README.md files scope is based on a specific company and their further expl
 ## Company Introduction
 
 - Company Name and Location:
->>> ### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/) | Salt Lake City, UT
+>> ### [Palladyne AI](https://palladyneai.com/) formally known as [SARCOS](https://www.sarcos.com/) | Salt Lake City, UT
 
 - When was the company incorporated?
->>> ### While the newly named 'Palladyne AI' has only recently been introduced to the World,[^1] 'SARCOS' has been around in one form or another since 1983.[^2]
+> ### While the newly named 'Palladyne AI' has only recently been introduced to the World,[^1] 'SARCOS' has been around in one form or another since 1983.[^2]
 
 - Who are the founders of the company?
 >>> ### SARCOS was originally founded by the late [Stephen Jacobsen](https://en.wikipedia.org/wiki/Stephen_Jacobsen). Ben Wolfe became CEO sometime between 2015 and 2016[^2] where he has spearheaded the rebranding that involded the name change from 'SARCOS Technology and Robotics Corp.' to 'Palladyne AI Corp.'
