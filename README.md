@@ -29,7 +29,7 @@ This README.md files scope is based on a specific company and their further expl
 
 - Who is the company's intended customer? Is there any information about the market size of this set of customers?
 ### Palladyne AI believes its software has wide application in industries such as:
-
+|----------------------------|----------------------------|
 | automotive                 | aviation                   |
 | construction               | defense                    |
 | general manufacturing      | infrastructure inspection  |
